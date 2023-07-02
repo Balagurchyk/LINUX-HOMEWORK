@@ -1,0 +1,14 @@
+   0 date > 1.txt
+   1 mkdir -p /tmp/hw3//newfile/viktor
+   2 echo "Homework 3" >> 1.txt
+   3 df -h /
+   4 df -h / >> 1.txt
+   5 history --help
+   6 history | tail -5 >> 1.txt
+   7 cat 1.txt
+   8 cat /proc/cpuinfo | grep vendor >> 1.txt
+   9 cat 1.txt
+  10 nano 1.txt
+  11 cat 1.txt
+  12 history
+  13 history > 3hw260623.txt && export_file 3hw260623.txt
