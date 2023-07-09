@@ -1,0 +1,59 @@
+В СКРИПТЕ:
+
+#!/bin/bash
+echo -n "your name is: "
+echo $USER
+echo "your working directory is:"
+pwd
+echo "Numbers of users:"
+ps -A | grep "ssh"
+echo "done"
+
+---------------------------------------------------------------------------------------------------
+ИСТОРИЯ КОМАНД:
+
+
+ 1000  cd /opt/300523_evening/balagur
+ 1001  ls
+ 1002  cd
+ 1003  nano testscript.sh
+ 1004  touch testscript.sh
+ 1005  nano testscript.sh
+ 1006  clear
+ 1007  ls
+ 1008  cd /opt/300523_evening/balagur
+ 1009  ls
+ 1010  touch testscript.sh
+ 1011  nano testscript.sh
+ 1012  cat testscript.sh
+ 1013  nano testscript.sh
+ 1014  printenv
+ 1015  nano testscript.sh
+ 1016  ./testscript.sh
+ 1017  nano testscript.sh
+ 1018  ./testscript.sh
+ 1019  chmod 744 testscript.sh
+ 1020  ./testscript.sh
+ 1021  nano testscript.sh
+ 1022  ./testscript.sh
+ 1023  nano testscript.sh
+ 1024  ./testscript.sh
+ 1025  nano testscript.sh
+ 1026  ./testscript.sh
+ 1027  nano testscript.sh
+ 1028  ./testscript.sh
+ 1029  nano testscript.sh
+ 1030  ./testscript.sh
+ 1031  cmod 736 testscript.sh
+ 1032  chmod 736 testscript.sh
+ 1033  ls -l
+ 1034  chmod 626 testscript.sh
+ 1035  ls-l
+ 1036  ls -l
+ 1037  nano testscript.sh
+ 1038  mv testscript.sh .testscript.sh
+ 1039  ls -a
+ 1040  ls -l
+ 1041  ls - la
+ 1042  ls -la
+ 1043  history
